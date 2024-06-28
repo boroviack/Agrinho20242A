@@ -45,3 +45,11 @@ align-items: center;
     gap: 20px;
     padding: 20px;
 }
+.containerelementos{
+    text-align: center;
+}
+.elementos__imagem{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
