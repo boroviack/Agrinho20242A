@@ -36,3 +36,10 @@ align-items: center;
 
     padding: 40px;
 }
+
+.elementos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
